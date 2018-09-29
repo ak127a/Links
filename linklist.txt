@@ -1,0 +1,15 @@
+
+########## JAVA ##########
+http://moocfi.github.io/courses/2013/programming-part-1/
+
+########## ANDROID BASICS ############
+1. User Interface
+	https://in.udacity.com/course/android-basics-user-interface--ud834-india
+2. User Input
+	https://in.udacity.com/course/android-basics-user-input--ud836
+3. Multiscreen apps
+	https://in.udacity.com/course/android-basics-multiscreen-apps--ud839
+4. Networking
+	https://in.udacity.com/course/android-basics-networking--ud843
+5. Data Storage
+	https://in.udacity.com/course/android-basics-data-storage--ud845
